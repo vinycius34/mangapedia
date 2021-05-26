@@ -1,0 +1,19 @@
+* { margin: 0; padding: 0; }
+nav{
+    background-color:rgb(76, 88, 88);
+    color: #c4acac;
+    padding: 10px;
+    
+} 
+a{
+    text-decoration: none;
+    color: #c4acac;
+    margin-left: 30px;
+}
+.login{
+    float: right;
+    margin-right: 50px;
+}
+.body2{
+    background-color:  rgb(76, 88, 88);
+}
